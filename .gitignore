@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+dist/
+.cache/
+info
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+selenium-debug.log
+package-lock.json
+.vscode/
+__test__
