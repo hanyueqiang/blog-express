@@ -16,3 +16,9 @@ npm install cross-env nodemon -D
 
 npm i mysql xss -S
 
+## 安装express-session 
+npm i express-session -S
+
+## 安装redis connect-redis插件
+npm i redis connect-redis -S
+
